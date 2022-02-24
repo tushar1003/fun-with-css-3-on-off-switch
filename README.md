@@ -1,1 +1,1 @@
-# fun-with-css3on-off-switch
+# fun-with-css-3-on-off-switch
